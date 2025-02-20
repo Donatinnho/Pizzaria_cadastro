@@ -7,7 +7,8 @@ body {
     /* Padronização de cores */
     font-family: 'Roboto', sans-serif;
     color: #fff;
-    background-image: url(../img/Design\ sem\ nome.png);
+    background-color: #918c7e;
+    background-image: url(../img/fundo.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
