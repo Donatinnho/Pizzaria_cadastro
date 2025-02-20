@@ -1,0 +1,124 @@
+body {
+    /* Reset */
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+
+    /* Padronização de cores */
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    background-image: url(../img/Design\ sem\ nome.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    color: white;
+
+    
+}
+
+.caixa {
+    margin-top: 60px;
+}
+
+.caixa img {
+    width: 200px;
+}
+
+/* Centralização dos itens e textos */
+#login {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.nome input {
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    background-color: #eea04c;
+    color: #fff;
+}
+
+.tipo input {
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    background-color: #eea04c;
+    color: #fff;
+}
+
+.endereço input {
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    background-color: #eea04c;
+    color: #fff;
+}
+
+.numero input {
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    background-color: #eea04c;
+    color: #fff;
+}
+
+.senha input {
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    background-color: #eea04c;
+    color: #fff;
+}
+
+.preco input {
+    margin-top: 15px;
+    border-radius: 15px;
+    border: none;
+    width: 250px;
+    height: 35px;
+    padding-left: 15px;
+    background-color: #eea04c;
+    color: #fff;
+}
+
+.enviar input {
+    cursor: pointer;
+    margin-top: 15px;
+    border-radius: 20px;
+    border: none;
+    width: 100px;
+    height: 40px;
+    background-color: #fff;
+    color: #1b1c30;
+}
+
+.caixa input::placeholder{
+    color: #fff;
+}
+
+.enviar p{
+    color: #ffffff;
+}
+
+.enviar a {
+    text-decoration: none;
+    color: rgb(255, 174, 0);
+}
